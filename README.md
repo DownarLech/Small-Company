@@ -16,12 +16,15 @@ I wish to stress that the back-end side of my app was even more crusial for me t
 #### Application functionalities.
 
 There are three user roles available: administrator, manager and worker.
+
 Admin can:
 - create and remove a user accounts. Password and username are created automatically. 
+- 
 Manager can: 
 - skim over each worker's tasks list.
 - add a new tasks to worker (topic, deadline and description).
 - remove task.
+- 
 Worker can:
 - skim over own tasks list.
 - mark tasks that has been made.
